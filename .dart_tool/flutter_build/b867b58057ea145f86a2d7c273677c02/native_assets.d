@@ -1,0 +1,1 @@
+ /Users/katekoval/rmd_koval_ki407_lab2/.dart_tool/flutter_build/b867b58057ea145f86a2d7c273677c02/native_assets.yaml: 
