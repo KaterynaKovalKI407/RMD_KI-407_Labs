@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "koval_ki407" "\0"
+            VALUE "FileDescription", "rmd_koval_ki407_lab2" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "koval_ki407" "\0"
+            VALUE "InternalName", "rmd_koval_ki407_lab2" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "koval_ki407.exe" "\0"
-            VALUE "ProductName", "koval_ki407" "\0"
+            VALUE "OriginalFilename", "rmd_koval_ki407_lab2.exe" "\0"
+            VALUE "ProductName", "rmd_koval_ki407_lab2" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

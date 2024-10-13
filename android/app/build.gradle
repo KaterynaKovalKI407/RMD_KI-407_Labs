@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.koval_ki407"
+    namespace = "com.example.rmd_koval_ki407_lab2"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.koval_ki407"
+        applicationId = "com.example.rmd_koval_ki407_lab2"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
