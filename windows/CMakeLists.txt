@@ -1,10 +1,10 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
-project(koval_ki407 LANGUAGES CXX)
+project(rmd_koval_ki407_lab2 LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "koval_ki407")
+set(BINARY_NAME "rmd_koval_ki407_lab2")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
