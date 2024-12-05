@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/katekoval/rmd_koval_ki407_lab5",
+      "program": "/Users/katekoval/rmd_koval_ki407_lab5/build/Debug/outDebug"
+    }
+  ]
+}

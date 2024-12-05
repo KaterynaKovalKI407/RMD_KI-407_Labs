@@ -1,0 +1,11 @@
+framework module flutter_light_plugin {
+  umbrella header "flutter_light_plugin-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_light_plugin.Swift {
+  header "flutter_light_plugin-Swift.h"
+  requires objc
+}
